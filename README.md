@@ -15,3 +15,4 @@ History of purchased coffee bean packs, visualized using Looker Studio (https://
 
 Observations:
 - The single country from which I bought the most coffee beans is Ethiopia
+- Between 2020-2022, I consumed 13 packs on average per year. But just before that, in 2019, I almost had a coffee detox with just 4 packs of beans.
