@@ -1,5 +1,5 @@
 # portfolio
-My portfolio of visualizations created using Tableau Public and Looker Studio.
+I collect and analyze personal data about my hobbies and visualize it using data analytics tools.
 
 Link to Tableau Public: https://public.tableau.com/app/profile/pavel.kukushkin
 
