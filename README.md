@@ -3,6 +3,11 @@ I collect and analyze personal data about my hobbies and visualize it using data
 
 Link to Tableau Public: https://public.tableau.com/app/profile/pavel.kukushkin
 
-Links to Looker Studio dashboards:
-- Film Ratings Report: https://lookerstudio.google.com/reporting/2b455111-1ec1-4664-bdf8-74ebeea181b7
-- Specialty Coffee Report: https://lookerstudio.google.com/reporting/04dd260c-e298-46c8-b84d-84b28541c7b4
+## Film Ratings Report
+My movie ratings on Kinopoisk and IMDB, combined in a table on Google Sheets and visualized using Looker Studio (https://lookerstudio.google.com/reporting/2b455111-1ec1-4664-bdf8-74ebeea181b7).
+
+Observations:
+- My younger self used to give more 10/10 ratings
+
+## Specialty Coffee Report
+History of purchased coffee bean packs, visualized using Looker Studio (https://lookerstudio.google.com/reporting/04dd260c-e298-46c8-b84d-84b28541c7b4).
